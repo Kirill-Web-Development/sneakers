@@ -1,1 +1,0 @@
-export {HeroLayout} from './ui'
